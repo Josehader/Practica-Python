@@ -15,6 +15,14 @@ greater_than = 5 > 3 == True
 less_equal = 5 <= 3 == False
 greater_equal = 5 >= 3 == True
 
+# Algunos ejercicios
+print(f"Suma : 5 + 3 = : {5 + 3}")
+print(f"Resta : 5 - 3 = : {5 - 3}") 
+print(f"Multiplicacion : 5 * 3 = : {5 * 3}")
+print(f"Division : 5 / 3 = : {5 / 3}")
+print(f"Division entera : 5 // 3 = : {5 // 3}")
+print(f"Modulo : 5 % 3 = : {5 % 3}")
+
 # Ejemplos de uso de operadores
 if 5 > 3:
     print("5 es mayor que 3") # Esto se imprimirá porque la condición es verdadera
